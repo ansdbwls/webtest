@@ -1,0 +1,15 @@
+#fixed {
+	position : fixed;
+	top : 100px;
+	right : 10px;
+	width : 200px;
+	padding : 30px;
+	background : red;
+	color : black;
+}
+
+
+h2{
+	color: green;
+
+}
